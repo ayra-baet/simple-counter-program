@@ -68,7 +68,7 @@ button:hover {
     background: var(--color-button-hover);
 }
 
-button:active {
+button:focus {
     outline: var(--outline-width) solid var(--color-outline);
     outline-offset: var(--outline-offset);
 }
